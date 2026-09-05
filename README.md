@@ -1,4 +1,3 @@
-websockets==12.0
 import asyncio
 import json
 import logging
